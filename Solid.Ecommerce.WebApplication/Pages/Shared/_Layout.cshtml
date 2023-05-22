@@ -1,0 +1,26 @@
+﻿
+                  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <partial name="Partials/_Head" />
+    @*<partial name="_LoginPartial" />*@
+</head>
+<body>
+    <header>
+        <partial name="Partials/_Header" />
+        @*<partial name="_LoginPartial" />*@
+    </header>
+
+    @RenderBody()
+
+
+    <footer class="bg-light border-top text-muted">
+        <partial name="Partials/_Footer" />
+    </footer>
+
+    <partial name="Partials/_JavaScriptFiles" />
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

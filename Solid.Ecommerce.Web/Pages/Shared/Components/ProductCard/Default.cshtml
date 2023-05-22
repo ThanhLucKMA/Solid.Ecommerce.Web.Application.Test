@@ -1,0 +1,47 @@
+﻿@model Solid.Ecommerce.Shared.Product;
+@{
+    var listPrice = Math.Round(Model.ListPrice);
+    var unitPrice = listPrice - Math.Round((Model.DiscountPercent * listPrice / 100) ?? 0);
+    var image = Model.ProductProductPhotos?
+    .FirstOrDefault()?
+    .ProductPhoto
+    .LargePhotoFileName;
+
+}
+
+<div class="col-md-6 col-xxl-4">
+    <div class="card h-100">
+        <div class="position-relative">
+            <img src="~/images/products/@image" alt="Product image" class="card-img-top">
+            <div class="badge bg-info position-absolute top-0 end-0 mt-2 me-2">Tag</div>
+        </div>
+        <div class="card-body position-relative">
+            <h2 class="h4"><a href="product.html" class="stretched-link">@Model.Name</a></h2>
+            <div class="text-uppercase fw-bold text-muted mb-1">@Model.ProductSubcategory?.Name </div>
+            <p class="mb-3">@Model.Description</p>
+            <div class="small position-absolute bottom-0 end-0 mb-2 me-3 text-success">
+                <i class="bi-check-circle"></i>
+                @Model.Status?.StatusName
+            </div>
+        </div>
+        <div class="card-footer">
+            <div class="d-flex justify-content-between align-items-center">
+                <div class="fs-3 fw-bold lh-1">$@unitPrice <span class="fs-6 text-decoration-line-through text-muted">($@listPrice)</span></div>
+                <div class="d-flex">
+                    <button type="button" class="btn btn-primary me-2 js-addToCart">
+                        <i class="bi-cart-plus"></i><span class="visually-hidden">Add to cart</span>
+                    </button>
+                    <div class="dropdown">
+                        <button type="button" class="btn btn-secondary" id="addToWishlistDropdown1" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi-heart"></i><span class="visually-hidden">Add to wishlist</span></button>
+                        <div class="dropdown-menu" aria-labelledby="addToWishlistDropdown1">
+                            <h6 class="dropdown-header">Select wishlist</h6>
+                            <button type="button" class="dropdown-item js-addToWishlist">Wishlist #1</button>
+                            <button type="button" class="dropdown-item js-addToWishlist">Wishlist #2</button>
+                            <button type="button" class="dropdown-item js-addToWishlist">Wishlist #3</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

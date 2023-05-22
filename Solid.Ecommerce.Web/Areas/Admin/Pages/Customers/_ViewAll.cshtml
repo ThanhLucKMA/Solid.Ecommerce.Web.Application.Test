@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Person>
+<table class="table table-bordered" id="personTable">
+    <thead>
+        <tr>
+            <th>
+                PersonType
+            </th>
+            <th>
+                NameStyle
+            </th>
+            <th>
+                FirstName
+            </th>
+            <th>
+                MiddleName
+            </th>
+            <th>
+                LastName
+            </th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Count() != 0)
+        {
+            @foreach (var person in Model)
+            {
+                <tr>
+                    <td>
+                        @person.PersonType
+                    </td>
+                    <td>
+                        @person.NameStyle
+                    </td>
+                    <td>
+                        @person.FirstName
+                    </td>
+                    <td>
+                        @person.MiddleName
+                    </td>
+                    <td>
+                        @person.LastName
+                    </td>
+                    <td text-right">
+                        <a onclick="jQueryModalGet('?handler=CreateOrEdit&id=@person.BusinessEntityId','Edit Person')" class="btn btn-info text-white"> Edit</a>
+                        <form method="post" asp-page="Index" asp-route-id="@person.BusinessEntityId" asp-page-handler="Delete" onsubmit="return jQueryModalDelete(this)" class="d-inline">
+                            <button type="submit" class="btn btn-danger text-white"> Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+<script>
+    $(document).ready(function () {
+        $("#personTable").DataTable();
+    });
+</script>

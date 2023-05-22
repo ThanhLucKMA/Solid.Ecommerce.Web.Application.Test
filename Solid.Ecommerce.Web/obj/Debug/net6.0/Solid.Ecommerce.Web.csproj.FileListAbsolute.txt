@@ -1,0 +1,703 @@
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\appsettings.json
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\libman.json
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.staticwebassets.runtime.json
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.exe
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.deps.json
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.runtimeconfig.json
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.pdb
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\AutoMapper.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Azure.Core.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Azure.Identity.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Castle.Core.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\WebOptimizer.Core.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NUglify.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Memory.Data.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Application.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Infrastructure.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Services.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Shared.EntityModels.SqlServer.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Services.pdb
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Application.pdb
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Infrastructure.pdb
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Shared.EntityModels.SqlServer.pdb
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.csproj.AssemblyReference.cache
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.AssemblyInfoInputs.cache
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.AssemblyInfo.cs
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.csproj.CoreCompileInputs.cache
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.RazorAssemblyInfo.cache
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.RazorAssemblyInfo.cs
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets\msbuild.Solid.Ecommerce.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Solid.Ecommerce.Web.props
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Solid.Ecommerce.Web.props
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Solid.Ecommerce.Web.props
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\scopedcss\bundle\Solid.Ecommerce.Web.styles.css
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\scopedcss\projectbundle\Solid.Ecommerce.Web.bundle.scp.css
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.csproj.CopyComplete
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\refint\Solid.Ecommerce.Web.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.pdb
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.genruntimeconfig.cache
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\ref\Solid.Ecommerce.Web.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\appsettings.json
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\libman.json
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.staticwebassets.runtime.json
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.exe
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.deps.json
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.runtimeconfig.json
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.pdb
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\AutoMapper.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Azure.Core.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Azure.Identity.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Castle.Core.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\WebOptimizer.Core.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NUglify.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Application.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Infrastructure.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Services.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Shared.EntityModels.SqlServer.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Services.pdb
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Application.pdb
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Infrastructure.pdb
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Shared.EntityModels.SqlServer.pdb
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.csproj.AssemblyReference.cache
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.AssemblyInfoInputs.cache
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.AssemblyInfo.cs
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.csproj.CoreCompileInputs.cache
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.RazorAssemblyInfo.cache
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.RazorAssemblyInfo.cs
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets\msbuild.Solid.Ecommerce.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Solid.Ecommerce.Web.props
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Solid.Ecommerce.Web.props
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Solid.Ecommerce.Web.props
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\scopedcss\bundle\Solid.Ecommerce.Web.styles.css
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\scopedcss\projectbundle\Solid.Ecommerce.Web.bundle.scp.css
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.csproj.CopyComplete
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\refint\Solid.Ecommerce.Web.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.pdb
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.genruntimeconfig.cache
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\ref\Solid.Ecommerce.Web.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\MessagePack.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.Common.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\appsettings.Development.json
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\appsettings.json
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\libman.json
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.staticwebassets.runtime.json
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.exe
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.deps.json
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.runtimeconfig.json
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Web.pdb
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\AutoMapper.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Azure.Core.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Azure.Identity.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Castle.Core.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Humanizer.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\WebOptimizer.Core.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\MessagePack.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Build.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.Common.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\NUglify.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Application.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Infrastructure.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Services.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Shared.EntityModels.SqlServer.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Services.pdb
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Application.pdb
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Infrastructure.pdb
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\bin\Debug\net6.0\Solid.Ecommerce.Shared.EntityModels.SqlServer.pdb
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.csproj.AssemblyReference.cache
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.AssemblyInfoInputs.cache
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.AssemblyInfo.cs
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.csproj.CoreCompileInputs.cache
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.RazorAssemblyInfo.cache
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.RazorAssemblyInfo.cs
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets\msbuild.Solid.Ecommerce.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Solid.Ecommerce.Web.props
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Solid.Ecommerce.Web.props
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Solid.Ecommerce.Web.props
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets.build.json
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\staticwebassets.development.json
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\scopedcss\bundle\Solid.Ecommerce.Web.styles.css
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\scopedcss\projectbundle\Solid.Ecommerce.Web.bundle.scp.css
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.csproj.CopyComplete
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\refint\Solid.Ecommerce.Web.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.pdb
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\Solid.Ecommerce.Web.genruntimeconfig.cache
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Web\obj\Debug\net6.0\ref\Solid.Ecommerce.Web.dll

@@ -1,0 +1,51 @@
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Infrastructure.deps.json
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Infrastructure.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Infrastructure.pdb
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Application.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Shared.EntityModels.SqlServer.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Application.pdb
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Shared.EntityModels.SqlServer.pdb
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.csproj.AssemblyReference.cache
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.AssemblyInfoInputs.cache
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.AssemblyInfo.cs
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.csproj.CoreCompileInputs.cache
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.csproj.CopyComplete
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\refint\Solid.Ecommerce.Infrastructure.dll
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.pdb
+D:\5_SOLID_EDU_VN\1_PROJECTS_TEMPORARY\ASPNETCORE\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\ref\Solid.Ecommerce.Infrastructure.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Infrastructure.deps.json
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Infrastructure.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Infrastructure.pdb
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Application.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Shared.EntityModels.SqlServer.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Application.pdb
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Shared.EntityModels.SqlServer.pdb
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.AssemblyInfo.cs
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.csproj.CopyComplete
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\refint\Solid.Ecommerce.Infrastructure.dll
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.pdb
+C:\Working\ASPNETCORE\PROJECT_TEMPORARY\SOLID_ECOMMERCE_WEB\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\ref\Solid.Ecommerce.Infrastructure.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Infrastructure.deps.json
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Infrastructure.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Infrastructure.pdb
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Application.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Shared.EntityModels.SqlServer.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Application.pdb
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\bin\Debug\net6.0\Solid.Ecommerce.Shared.EntityModels.SqlServer.pdb
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.csproj.AssemblyReference.cache
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.AssemblyInfoInputs.cache
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.AssemblyInfo.cs
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.csproj.CopyComplete
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\refint\Solid.Ecommerce.Infrastructure.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\Solid.Ecommerce.Infrastructure.pdb
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.Infrastructure\obj\Debug\net6.0\ref\Solid.Ecommerce.Infrastructure.dll

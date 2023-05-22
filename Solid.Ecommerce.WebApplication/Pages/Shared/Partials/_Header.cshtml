@@ -1,0 +1,96 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    var userName = User.Identity?.Name;
+    userName = userName?.Substring(0, userName.IndexOf('@'));
+}
+
+<nav class="navbar navbar-light bg-light navbar-expand-lg">
+    <div class="container">
+        <a href="index.html" class="navbar-brand"><img class="logo" src="~/images/logo/logo.svg"/></a>
+        <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse mb-2 mb-lg-0" id="navbar">
+            <ul class="navbar-nav mb-2 mb-lg-0 me-auto">
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-page="/Index"><i class="fa fa-home"></i> Home</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle text-dark" data-bs-toggle="dropdown">
+                        <i class="fa fa-car"></i> Category
+                    </a>
+                    @*<vc:menu></vc:menu>*@
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item text-dark" href="/Products">All</a>
+                        <a class="dropdown-item text-dark" href="/Products/1">Mountain Bikes</a>
+                        <a class="dropdown-item text-dark" href="/Products/2">Road Bikes</a>
+                        <a class="dropdown-item text-dark" href="/Products/3">Touring Bikes</a>
+                    </div>
+                </li>
+
+                @*<li class="nav-item">
+                    <a href="about.html" class="nav-link">About</a>
+                </li>
+                <li class="nav-item">
+                    <a href="contact.html" class="nav-link">Contact</a>
+                </li>*@
+               
+               @* <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Register">Register</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Login">Login</a>
+                </li>*@
+
+            </ul>
+            <form class="mb-3 mb-lg-0 me-lg-2" style="margin-right: 100px !important;">
+                <div class="input-group">
+                    <input type="search" class="form-control" placeholder="Search text here" aria-label="Search products here">
+                    <button type="submit" class="btn btn-secondary"><i class="bi-search"></i></button>
+                </div>
+            </form>
+            <div class="dropdown d-inline-block me-2">
+                <button type="button" class="btn btn-secondary dropdown-toggle" id="currencyDropdown" data-bs-toggle="dropdown" aria-expanded="false">USD $</button>
+                <div class="dropdown-menu" aria-labelledby="currencyDropdown">
+                    <button type="button" class="dropdown-item">EUR €</button>
+                    <button type="button" class="dropdown-item">GBP £</button>
+                </div>
+            </div>
+            
+            @if (SignInManager.IsSignedIn(User))
+            {
+                <div class="nav-item">
+                    <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">
+                    <img style="width: 45px;height:45px;border-radius:50%" class="img-fluid" src="https://cdn-icons-png.flaticon.com/512/147/147140.png" />
+                    </a>
+                </div>
+                <div class="nav-item m-lg-2">
+                    <span>@userName</span>
+                </div>
+                <div class="nav-item" style="margin-left: 7px">
+                    <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Page("/", new { area = "" })" method="post">
+                        <button type="submit" class="btn btn-danger text-light">Logout</button>
+                    </form>
+                </div>
+            }
+            else
+            {
+                <div class="nav-item" style="margin-left: 7px">
+                    <a class="btn btn-success text-light" asp-area="Identity" asp-page="/Account/Register">Register</a>
+                </div>
+                <div class="nav-item" style="margin-left: 7px">
+                    <a class="btn btn-info text-light" asp-area="Identity" asp-page="/Account/Login">Login</a>
+                </div>
+            }
+            @*<a href="wishlist.html" class="btn btn-secondary me-2">
+                <i class="bi-heart"></i>
+            </a>
+            <a href="cart.html" class="btn btn-primary">
+                <i class="bi-cart"></i>
+                (0)
+            </a>*@
+        </div>
+    </div>
+</nav>

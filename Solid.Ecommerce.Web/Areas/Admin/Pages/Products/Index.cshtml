@@ -1,0 +1,8 @@
+﻿@page
+@model Solid.Ecommerce.Web.Areas.Admin.Pages.Products.IndexModel
+
+@{
+    Layout = "_SecureLayout";
+}
+<h4>Dashboard Products</h4>
+<partial name="Partials/_ProductListDashboard" model="@Model.ProductRecords" />

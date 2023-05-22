@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Product>
+<p>
+    <item-create></item-create>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayName("Id")</th>
+            <th>@Html.DisplayName("Name")</th>
+          
+            <th>@Html.DisplayName("Color")</th>
+            <th>@Html.DisplayName("Cost")</th>
+            <th>@Html.DisplayName("Price")</th>
+            <th>@Html.DisplayName("Status")</th>
+            <th>@Html.DisplayName("Discount")</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+       
+                <td>@Html.DisplayFor(modelItem => item.ProductId)</td>
+                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+         
+                <td>@Html.DisplayFor(modelItem => item.Color)</td>
+                <td>@Html.DisplayFor(modelItem => item.StandardCost)</td>
+                <td>@Html.DisplayFor(modelItem => item.ListPrice)</td>
+                <td>@Html.DisplayFor(modelItem => item.Status.StatusName)</td>
+                <td>@Html.DisplayFor(modelItem => item.DiscountPercent)</td>
+                
+                <td>
+                    <item-edit item-id="@item.ProductId"></item-edit> |
+                    <item-details item-id="@item.ProductId"></item-details> |
+                    <item-delete item-id="@item.ProductId"></item-delete>
+                </td>
+                
+            </tr>
+        }
+    </tbody>
+</table>

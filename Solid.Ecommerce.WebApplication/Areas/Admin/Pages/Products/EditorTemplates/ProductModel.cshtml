@@ -1,0 +1,72 @@
+﻿@model ProductModel
+<div asp-validation-summary="All" class="text-danger"></div>
+<div>
+    <label asp-for="Name" class="col-form-label"></label>
+    <input asp-for="Name" class="form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+    
+</div>
+<div>
+    <label asp-for="ProductNumber" class="col-form-label"></label>
+    <input asp-for="ProductNumber" class="form-control" />
+    <span asp-validation-for="ProductNumber" class="text-danger"></span>
+</div>
+<div>
+    <label asp-for="Color" class="col-form-label"></label>
+    <input asp-for="Color" class="form-control" />
+    <span asp-validation-for="Color" class="text-danger"></span>
+</div>
+<div>
+    <label asp-for="StandardCost" class="col-form-label"></label>
+    <input asp-for="StandardCost" class="form-control" />
+    <span asp-validation-for="StandardCost" class="text-danger"></span>
+</div>
+<div>
+    <label asp-for="ListPrice" class="col-form-label"></label>
+    <input asp-for="ListPrice" class="form-control" />
+    <span asp-validation-for="ListPrice" class="text-danger"></span>
+</div>
+<div>
+    <label asp-for="Description" class="col-form-label"></label>
+    <textarea asp-for="Description" class="form-control"></textarea>
+    <span asp-validation-for="Description" class="text-danger"></span>
+</div>
+<div>
+    <label asp-for="DiscountPercent" class="col-form-label"></label>
+    <input asp-for="DiscountPercent" class="form-control" />
+    <span asp-validation-for="DiscountPercent" class="text-danger"></span>
+</div>
+
+<div>
+    <label asp-for="StatusId" class="col-form-label"></label>
+    <select asp-for="StatusId" class="form-control" asp-items="@ViewBag.StatusNameLookValues"></select>
+    <span asp-validation-for="StatusId" class="text-danger"></span>
+</div>
+
+
+<div>
+    <label asp-for="ProductSubcategoryId" class="col-form-label"></label>
+    <select asp-for="ProductSubcategoryId" class="form-control" asp-items="@ViewBag.LookupValues"></select>
+    <span asp-validation-for="ProductSubcategoryId" class="text-danger"></span>
+</div>
+
+<div>
+    <label asp-for="SellStartDate" class="col-form-label"></label>
+    <input asp-for="SellStartDate" class="form-control" />
+    <span asp-validation-for="SellStartDate" class="text-danger"></span>
+</div>
+
+<div>
+    <label asp-for="SellEndDate" class="col-form-label"></label>
+    <input asp-for="SellEndDate" class="form-control" />
+    <span asp-validation-for="SellEndDate" class="text-danger"></span>
+</div>
+
+<div>
+    <label asp-for="DiscontinuedDate" class="col-form-label"></label>
+    <input asp-for="DiscontinuedDate" class="form-control" />
+    <span asp-validation-for="DiscontinuedDate" class="text-danger"></span>
+</div>
+
+
+

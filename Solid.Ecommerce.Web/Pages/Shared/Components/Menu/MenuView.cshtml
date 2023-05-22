@@ -1,0 +1,12 @@
+﻿@model IEnumerable<ProductSubcategory>
+<div class="dropdown-menu">
+    @*
+    Trong Razor page thì asp-page anchor tag helper sẽ gộp asp-controller và asp-action
+
+    *@
+    <a class="dropdown-item text-dark" asp-page="/Products/Index" asp-route-subCategoryId="">All</a>
+    @foreach (var item in Model)
+    {
+        <a class="dropdown-item text-dark" asp-page="/Products/Index" asp-route-subCategoryId="@item.ProductSubcategoryId">@item.Name</a>
+    }
+</div>

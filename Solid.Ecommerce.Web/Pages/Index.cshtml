@@ -1,0 +1,92 @@
+﻿ @page
+@model IndexModel
+@{
+    ViewData["Title"] = "ECommerce Web App - Bikes";
+}
+
+
+<section class="bg-light pb-5 pt-3 pt-lg-5 mb-5">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6 mb-3 mb-lg-0">
+                <img src="~/images/products/2.webp" class="img-fluid">
+            </div>
+            <div class="col-lg-6">
+                <h1 class="display-1">Xe đạp địa hình tốt nhất</h1>
+                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis convallis velit quis sapien sollicitudin ultrices. Ut metus tortor, aliquet non rutrum ac, dapibus vehicula augue.</p>
+                <a href="shop.html" class="btn btn-lg btn-primary me-2">Shop</a>
+                <a href="about.html" class="btn btn-lg btn-outline-primary">About</a>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="container">
+
+    <section class="mb-5">
+        <h2 class="text-center mb-4">Collections</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis convallis velit quis sapien sollicitudin ultrices. Ut metus tortor, aliquet non rutrum ac, dapibus vehicula augue. Etiam congue erat sem, vitae gravida nunc pretium vitae. Fusce sed ex tellus. Quisque auctor viverra feugiat. Nulla urna odio, porta ut tristique ut, consequat non dolor. Etiam varius maximus dolor, at consectetur lectus. Mauris rutrum aliquet tellus, sed convallis diam.</p>
+        <div id="carousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carousel" data-bs-slide-to="0" aria-label="Slide 1" class="active"></button>
+                <button type="button" data-bs-target="#carousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+            </div>
+            <div class="carousel-inner" role="listbox">
+                <div class="carousel-item active">
+                    <a href="#">
+                        <img src="~/images/products/1600x900.png" alt="Collection #1" class="d-block img-fluid">
+                        <div class="carousel-caption">
+                            <h3>Collection #1</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="carousel-item">
+                    <a href="#">
+                        <img src="~/images/products/1600x900.png" alt="Collection #2" class="d-block img-fluid">
+                        <div class="carousel-caption">
+                            <h3>Collection #2</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="carousel-item">
+                    <a href="#">
+                        <img src="~/images/products/1600x900.png" alt="Collection #3" class="d-block img-fluid">
+                        <div class="carousel-caption">
+                            <h3>Collection #3</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="carousel-item">
+                    <a href="#">
+                        <img src="~/images/products/1600x900.png" alt="Collection #4" class="d-block img-fluid">
+                        <div class="carousel-caption">
+                            <h3>Collection #4</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <button type="button" class="carousel-control-prev" data-bs-target="#carousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button type="button" class="carousel-control-next" data-bs-target="#carousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </section>
+
+    @*<Popular Products*@
+    <partial name="Partials/Home/_PopularProducts" />
+    @*</Popular Products*@
+
+</div>
+
+
+
+

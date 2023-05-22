@@ -1,0 +1,25 @@
+﻿@page "{id?}"
+@model Solid.Ecommerce.Web.Areas.Admin.Pages.Products.DetailsModel;
+
+@{
+    Layout = "_SecureLayout";
+}
+
+<h1>Details for @Model.Product.ProductName</h1>
+@if (!string.IsNullOrEmpty(Model.Error))
+{
+    <div class="alert alert-danger" role="alert">
+        @Model.Error
+    </div>
+}
+else
+{
+    @* @Html.DisplayFor(m => m.Entity)*@
+    @Html.DisplayFor(m => m.Product, "ProductViewModel")
+
+    <div>
+        <item-edit item-id="@Model.Product.ProductId"></item-edit> |
+        <item-delete item-id="@Model.Product.ProductId"></item-delete> |
+        <item-list></item-list>
+    </div>
+}

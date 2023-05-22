@@ -1,0 +1,43 @@
+﻿@model Solid.Ecommerce.Application.ViewModels.Products.ProductViewModel;
+@{
+ 
+}
+<hr />
+<div class="text-center">
+    <img src="~/images/products/@Html.DisplayFor(model => model.PrimaryPhotoLargeFileName)" />
+</div>
+<div>
+    <dl class="row">
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.ProductId)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.ProductId)
+    </dd>
+
+     <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.ProductName)
+    </dt>
+    <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ProductName)
+    </dd>
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.StandardCost)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.StandardCost)
+    </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ListPrice)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ListPrice)
+        </dd>
+     <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.Description)
+    </dt>
+    <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+    </dd>
+</dl>
+</div>
