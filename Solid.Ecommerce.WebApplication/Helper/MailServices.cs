@@ -22,7 +22,7 @@ namespace AspNetCoreSecurity.IdentitySamples.Classes
                 DeliveryMethod =
                 SmtpDeliveryMethod.Network,
                 UseDefaultCredentials = false,
-                Credentials = new NetworkCredential("your-email@example.com", "your-password"),
+                Credentials = new NetworkCredential("thanhlucyth@gmail.com", "sdxxkxwkotttpcem"),
                 EnableSsl = true
 
             };
