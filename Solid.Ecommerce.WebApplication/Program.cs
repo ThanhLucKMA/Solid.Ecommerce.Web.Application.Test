@@ -9,6 +9,8 @@ using Solid.Ecommerce.Services.Extensions;
 using IHostingEnvironment = Microsoft.AspNetCore.Hosting.IHostingEnvironment;
 using Solid.Ecommerce.Infrastructure.Context;
 using Solid.Ecommerce.Application.Interfaces.Common;
+using AspNetCoreSecurity.IdentitySamples.Classes;
+using Microsoft.AspNetCore.Identity.UI.Services;
 
 public class Program
 {
@@ -61,7 +63,7 @@ public class Program
         builder.Services.AddDataServices();
         builder.Services.AddAutoMapperService();
 
-     
+        builder.Services.AddTransient<IEmailSender, SmtpEmailSender>();
 
 
         var app = builder.Build();
