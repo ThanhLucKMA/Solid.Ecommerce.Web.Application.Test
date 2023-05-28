@@ -1,7 +1,9 @@
+using Microsoft.AspNetCore.Authorization;
 using Solid.Ecommerce.Web.Utils;
 
 namespace Solid.Ecommerce.Web.Pages.ProductByCategories;
 
+[Authorize]
 public class IndexModel : PageModel
 {
     private readonly IProductService _productService;

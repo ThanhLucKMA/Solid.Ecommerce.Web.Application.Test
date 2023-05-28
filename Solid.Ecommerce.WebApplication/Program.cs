@@ -9,8 +9,9 @@ using Solid.Ecommerce.Services.Extensions;
 using IHostingEnvironment = Microsoft.AspNetCore.Hosting.IHostingEnvironment;
 using Solid.Ecommerce.Infrastructure.Context;
 using Solid.Ecommerce.Application.Interfaces.Common;
-using AspNetCoreSecurity.IdentitySamples.Classes;
+using Solid.Ecommerce.WebApplication.Helper;
 using Microsoft.AspNetCore.Identity.UI.Services;
+using Test_send_mail.Helper;
 
 public class Program
 {
@@ -29,16 +30,62 @@ public class Program
         builder.Services.AddDbContext<ApplicationDbContextIdentity>(options =>
             options.UseSqlServer(connectionStringIdentity));
 
-
         builder.Services.AddDbContext<SolidEcommerceDbContext>(options =>
             options.UseSqlServer(connectionStringDBContext));
 
-
         builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-        builder.Services.AddDefaultIdentity<IdentityUser>(options =>
-                options.SignIn.RequireConfirmedAccount = true)
-                 .AddEntityFrameworkStores<ApplicationDbContextIdentity>();
+
+        //Set session cookie flag
+        builder.Services.AddSession(options =>
+        {
+            options.IdleTimeout = TimeSpan.FromMinutes(30);//Thoi gian gioi han session
+            options.Cookie.HttpOnly = true;
+            options.Cookie.IsEssential = true;
+            options.Cookie.SecurePolicy = CookieSecurePolicy.Always;
+        });
+
+        //Set HSTS
+        builder.Services.AddHsts(options =>
+        {
+            options.IncludeSubDomains = true;
+            options.MaxAge = TimeSpan.FromDays(365);
+        });
+
+        //Set Anti CSRF
+        builder.Services.AddAntiforgery(options =>
+        {
+            options.FormFieldName = "_AntiCSRFToken";//Chong gia mao (1)
+            options.HeaderName = "X-Anti-Xsrf-Token";//(2)
+        });
+
+
+        //Set options password to control user
+        builder.Services.AddDefaultIdentity<IdentityUser>(options => {
+
+            options.SignIn.RequireConfirmedAccount = true;
+
+            options.Password.RequireDigit = false;
+            options.Password.RequiredLength = 8;
+            options.Password.RequiredUniqueChars = 6;
+            options.Password.RequireLowercase = false;
+            options.Password.RequireUppercase = false;
+            options.Password.RequireNonAlphanumeric = false;
+        })
+            .AddRoles<IdentityRole>()
+            .AddEntityFrameworkStores<ApplicationDbContextIdentity>();
+
+
+        //Configure cookie 
+        builder.Services.ConfigureApplicationCookie(options =>
+        {
+            options.Cookie.Name = "AuthenticationCookieLucBT";
+            options.Cookie.HttpOnly = true;					
+	        options.Cookie.SecurePolicy = CookieSecurePolicy.Always; 
+	        options.Cookie.SameSite = SameSiteMode.Strict;		
+	        options.ExpireTimeSpan = TimeSpan.FromMinutes(20);	
+	        options.SlidingExpiration = true;
+        });
 
         builder.Services.AddSingleton<IActionContextAccessor, ActionContextAccessor>();
         builder.Services.AddHttpContextAccessor();
@@ -63,8 +110,8 @@ public class Program
         builder.Services.AddDataServices();
         builder.Services.AddAutoMapperService();
 
-        builder.Services.AddTransient<IEmailSender, SmtpEmailSender>();
-
+        
+        builder.Services.AddTransient<ISendMailService, SendMail>();
 
         var app = builder.Build();
 
@@ -78,13 +125,16 @@ public class Program
             //app.UseDefaultFiles();
             app.UseResponseCompression();
 
-            
+            app.UseHttpsRedirection();
             app.UseStaticFiles();
 
+            app.UseRouting();
 
-           // app.UseSession();
+            app.UseSession();
             app.UseAuthentication();
             app.UseAuthorization();
+
+            app.MapRazorPages();
 
             app.UseEndpoints(endpoints =>
             {
@@ -101,19 +151,6 @@ public class Program
             // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
             app.UseHsts();
         }
-
-        app.UseHttpsRedirection();
-        app.UseStaticFiles();
-
-        app.UseRouting();
-        //app.UseWebOptimizer();
-
-        
-
-        app.UseAuthentication();
-        app.UseAuthorization();
-
-        app.MapRazorPages();
 
         app.Run();
     }

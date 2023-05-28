@@ -18,6 +18,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
+using Test_send_mail.Helper;
+using Solid.Ecommerce.WebApplication.Models;
 
 namespace Solid.Ecommerce.WebApplication.Areas.Identity.Pages.Account
 {
@@ -28,14 +30,14 @@ namespace Solid.Ecommerce.WebApplication.Areas.Identity.Pages.Account
         private readonly IUserStore<IdentityUser> _userStore;
         private readonly IUserEmailStore<IdentityUser> _emailStore;
         private readonly ILogger<RegisterModel> _logger;
-        private readonly IEmailSender _emailSender;
+        private readonly ISendMailService _emailSender;
 
         public RegisterModel(
             UserManager<IdentityUser> userManager,
             IUserStore<IdentityUser> userStore,
             SignInManager<IdentityUser> signInManager,
             ILogger<RegisterModel> logger,
-            IEmailSender emailSender)
+            ISendMailService emailSender)
         {
             _userManager = userManager;
             _userStore = userStore;
@@ -118,7 +120,7 @@ namespace Solid.Ecommerce.WebApplication.Areas.Identity.Pages.Account
                 await _emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
                 var result = await _userManager.CreateAsync(user, Input.Password);
 
-                if (result.Succeeded)
+                    if (result.Succeeded)
                 {
                     _logger.LogInformation("User created a new account with password.");
 
@@ -131,8 +133,10 @@ namespace Solid.Ecommerce.WebApplication.Areas.Identity.Pages.Account
                         values: new { area = "Identity", userId = userId, code = code, returnUrl = returnUrl },
                         protocol: Request.Scheme);
 
-                    await _emailSender.SendEmailAsync(Input.Email, "Confirm your email",
-                        $"Please confirm your account by <a href='{HtmlEncoder.Default.Encode(callbackUrl)}'>clicking here</a>.");
+                    await _emailSender.SendMailAction(new MailContent(){To = Input.Email,
+                        Subject = "Confirm your email",
+                        Body = 
+                        $"Please confirm your account by <a href='{HtmlEncoder.Default.Encode(callbackUrl)}'>clicking here</a>." });
 
                     if (_userManager.Options.SignIn.RequireConfirmedAccount)
                     {

@@ -308,3 +308,8 @@ E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.WebApplicatio
 E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.WebApplication\bin\Debug\net6.0\Solid.Ecommerce.Infrastructure.pdb
 E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.WebApplication\bin\Debug\net6.0\Solid.Ecommerce.Shared.EntityModels.SqlServer.pdb
 E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.WebApplication\bin\Debug\net6.0\libman.json
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.WebApplication\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.WebApplication\bin\Debug\net6.0\MailKit.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.WebApplication\bin\Debug\net6.0\MimeKit.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.WebApplication\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\Source Graduate\Solid.Ecommerce.Web.Application\Solid.Ecommerce.WebApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9UJ7xx2bmf8apZADandv22NwBfDhKXW5l84A0uO3N2Y=",
+  "Hash": "0bYasPwl+H8DW5xPw7mfnrP9EShKl8EVuMFwMVnKSTM=",
   "Source": "Solid.Ecommerce.WebApplication",
   "BasePath": "_content/Solid.Ecommerce.WebApplication",
   "Mode": "Default",
@@ -32332,6 +32332,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\9.webp"
+    },
+    {
+      "Identity": "E:\\Source Graduate\\Solid.Ecommerce.Web.Application\\Solid.Ecommerce.WebApplication\\wwwroot\\js\\enableAuthenticator.js",
+      "SourceId": "Solid.Ecommerce.WebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Source Graduate\\Solid.Ecommerce.Web.Application\\Solid.Ecommerce.WebApplication\\wwwroot\\",
+      "BasePath": "_content/Solid.Ecommerce.WebApplication",
+      "RelativePath": "js/enableAuthenticator.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\enableAuthenticator.js"
+    },
+    {
+      "Identity": "E:\\Source Graduate\\Solid.Ecommerce.Web.Application\\Solid.Ecommerce.WebApplication\\wwwroot\\js\\qrcode.min.js",
+      "SourceId": "Solid.Ecommerce.WebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Source Graduate\\Solid.Ecommerce.Web.Application\\Solid.Ecommerce.WebApplication\\wwwroot\\",
+      "BasePath": "_content/Solid.Ecommerce.WebApplication",
+      "RelativePath": "js/qrcode.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\qrcode.min.js"
     },
     {
       "Identity": "E:\\Source Graduate\\Solid.Ecommerce.Web.Application\\Solid.Ecommerce.WebApplication\\wwwroot\\js\\site.js",
