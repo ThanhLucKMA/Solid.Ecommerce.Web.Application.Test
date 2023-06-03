@@ -9,7 +9,6 @@ using Solid.Ecommerce.Services.Extensions;
 using IHostingEnvironment = Microsoft.AspNetCore.Hosting.IHostingEnvironment;
 using Solid.Ecommerce.Infrastructure.Context;
 using Solid.Ecommerce.Application.Interfaces.Common;
-using Solid.Ecommerce.WebApplication.Helper;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Test_send_mail.Helper;
 
@@ -71,6 +70,10 @@ public class Program
             options.Password.RequireLowercase = false;
             options.Password.RequireUppercase = false;
             options.Password.RequireNonAlphanumeric = false;
+
+            options.Lockout.MaxFailedAccessAttempts = 5;
+            options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+            options.Lockout.AllowedForNewUsers = true;
         })
             .AddRoles<IdentityRole>()
             .AddEntityFrameworkStores<ApplicationDbContextIdentity>();
