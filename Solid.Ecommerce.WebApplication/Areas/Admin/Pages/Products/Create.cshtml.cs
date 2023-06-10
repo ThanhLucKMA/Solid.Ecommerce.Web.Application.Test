@@ -1,8 +1,12 @@
 ﻿
-
+using Microsoft.AspNetCore.Authorization;
 using Solid.Ecommerce.Services.Services;
 
 namespace Solid.Ecommerce.Web.Areas.Admin.Pages.Products;
+
+[Authorize]
+[Authorize(Roles = "Administrator")]
+[Authorize(Roles = "Editer")]
 
 public class CreateModel : BasePageModel<Product, CreateModel>
 {
@@ -41,7 +45,4 @@ public class CreateModel : BasePageModel<Product, CreateModel>
         Entity = DataService.Map<ProductModel, Product>(Product);
         return await SaveOneAsync(DataService.AddAsync);
     }
-
-
-
 }

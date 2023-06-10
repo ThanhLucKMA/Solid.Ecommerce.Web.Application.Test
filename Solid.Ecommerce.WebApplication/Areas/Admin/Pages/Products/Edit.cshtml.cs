@@ -1,4 +1,11 @@
-﻿namespace Solid.Ecommerce.Web.Areas.Admin.Pages.Products;
+﻿using Microsoft.AspNetCore.Authorization;
+using System.Data;
+
+namespace Solid.Ecommerce.Web.Areas.Admin.Pages.Products;
+
+[Authorize]
+[Authorize(Roles = "Administrator")]
+[Authorize(Roles = "Editer")]
 public class EditModel : BasePageModel<Product, EditModel>
 {
     private readonly IProductSubCategoryService _subCategoryService;

@@ -1,0 +1,31 @@
+﻿@page 
+@model Solid.Ecommerce.WebApplication.Areas.Admin.Pages.Role.EditModel
+@{
+    ViewData["Title"] = "Cập nhật Role";
+}
+<h2>@ViewData["Title"]</h2>
+<partial name="_StatusMessage" model="@Model.StatusMessage"></partial>
+
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Input.Name" class="control-label mb-2"></label>
+                <input asp-for="Input.Name" class="form-control mb-2" />
+                <span asp-validation-for="Input.Name" class="text-danger mb-2"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Cập nhật" class="btn btn-primary mb-2" />
+                <a class="btn btn-primary mb-2" asp-page="./Index"> Danh sách các Role</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

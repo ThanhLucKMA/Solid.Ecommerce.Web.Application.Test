@@ -1,0 +1,29 @@
+﻿@page "/admin/members"
+@model Solid.Ecommerce.WebApplication.Areas.Admin.Pages.User.IndexModel
+@{
+    ViewData["Title"] = "Danh sách các thành viên";
+}
+<h2>@ViewData["Title"]</h2>
+<p>Tổng số thành viên: @Model.totalUser</p>
+
+<partial name="_StatusMessage" model="@Model.StatusMassage"></partial>
+
+
+<table class="table">
+    <tr>
+        <th>Tên User</th>
+        <th></th>
+        <th>Tác vụ</th>
+    </tr>
+    @foreach (var user in Model.users)
+    {
+        <tr>
+            <td>@user.UserName</td>
+            <td></td>
+            <td>
+                <a class="btn btn-success btn-sm" asp-page="./SetPassword" asp-route-id="@user.Id">Đặt mật khẩu</a>
+                <a class="btn btn-success btn-sm" asp-page="./AddRole" asp-route-id="@user.Id">Thêm Role</a>
+            </td>
+        </tr>
+    }
+</table>

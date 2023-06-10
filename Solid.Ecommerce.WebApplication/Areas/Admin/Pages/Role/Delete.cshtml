@@ -1,0 +1,27 @@
+﻿@page 
+@model Solid.Ecommerce.WebApplication.Areas.Admin.Pages.Role.DeleteModel
+@{
+    ViewData["Title"] = "Cập nhật Role";
+}
+<h2>@ViewData["Title"]</h2>
+<partial name="_StatusMessage" model="@Model.StatusMessage"></partial>
+
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <p>You sure delete role: <strong>@Model.role.Name</strong></p>
+            <div class="form-group">
+                <input type="submit" value="Đồng ý" class="btn btn-denge mb-2" />
+                <a class="btn btn-primary mb-2" asp-page="./Index"> Danh sách các Role</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

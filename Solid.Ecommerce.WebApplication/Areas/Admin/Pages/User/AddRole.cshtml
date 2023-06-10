@@ -1,0 +1,33 @@
+﻿@page "/admin/assign-user-role/{id}"
+@model Solid.Ecommerce.WebApplication.Areas.Admin.Pages.User.AddRoleModel
+@{
+    ViewData["Title"] = "Gán Role";
+}
+
+<h4>Thiết lập role cho user: @Model.user.UserName</h4>
+<partial name="_StatusMessage" for="StatusMessage" />
+@{
+   
+}
+<div class="row">
+    <div class="col-md-6">
+        <form id="set-password-form" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                @Html.ListBoxFor(m => m.RoleNames, Model.allRoles, new {
+                    id = "id-select-roles",
+                    @class = "form-control mb-2"
+                } )
+                <label asp-for="RoleNames" class="form-label mb-2"></label>
+                <span asp-validation-for="RoleNames" class="text-danger"></span>
+            </div>
+            
+            <button type="submit" class="w-100 btn btn-lg btn-primary mb-2">Cập nhật</button>
+            <a class="w-100 btn btn-lg btn-primary mb-2" asp-page="./Index">Danh sách thành viên</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -72,8 +72,68 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUHJvZHVjdHNcUGFydGlhbHNcX1Byb2R1Y3RMaXN0RGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Admin/Pages/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Admin/Pages/Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Admin/Pages/Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUm9sZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Admin/Pages/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Admin/Pages/Role/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUm9sZVxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Admin/Pages/Role/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUm9sZVxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Admin/Pages/Role/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUm9sZVxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Admin/Pages/Role/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcUm9sZVxfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Admin/Pages/Shared/_SecureLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcU2hhcmVkXF9TZWN1cmVMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Admin/Pages/User/AddRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcVXNlclxBZGRSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Admin/Pages/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Admin/Pages/User/SetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcVXNlclxTZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Admin/Pages/User/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcVXNlclxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Admin/Pages/User/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcVXNlclxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Admin/Pages/User/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcVXNlclxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Admin/Pages/User/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcVXNlclxfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Source Graduate/Solid.Ecommerce.Web.Application/Solid.Ecommerce.WebApplication/Areas/Identity/Pages/Account/AccessDenied.cshtml]

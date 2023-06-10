@@ -1,8 +1,15 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Data;
 
 namespace Solid.Ecommerce.Web.Areas.Admin.Pages.Products;
 
+
+
+[Authorize]
+[Authorize(Roles = "Administrator")]
+[Authorize(Roles = "Editer")]
 public class DeleteModel : BasePageModel<Product, DeleteModel>
 {
     [BindProperty]

@@ -35,6 +35,13 @@ public class Program
         builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 
+        builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
+        {
+            options.User.RequireUniqueEmail = false;
+        })
+        .AddEntityFrameworkStores<ApplicationDbContextIdentity>()
+        .AddDefaultTokenProviders();
+
         //Set session cookie flag
         builder.Services.AddSession(options =>
         {
