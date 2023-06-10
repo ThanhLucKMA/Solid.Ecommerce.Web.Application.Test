@@ -1,11 +1,13 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Solid.Ecommerce.WebApplication.Data;
 using System.ComponentModel.DataAnnotations;
+using System.Data;
 
 namespace Solid.Ecommerce.WebApplication.Areas.Admin.Pages.Role;
-
+[Authorize(Roles = "Administrator")]
 public class CreateModel : RolePageModel
 {
     public CreateModel(RoleManager<IdentityRole> roleManager, ApplicationDbContextIdentity dbContextIdentity) : base(roleManager, dbContextIdentity)

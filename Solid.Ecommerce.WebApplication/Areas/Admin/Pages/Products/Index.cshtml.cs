@@ -1,7 +1,10 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace Solid.Ecommerce.Web.Areas.Admin.Pages.Products;
+
+[Authorize(Policy = "SuperUser")]
 
 public class IndexModel : PageModel
 {

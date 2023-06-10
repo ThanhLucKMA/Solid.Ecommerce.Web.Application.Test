@@ -1,5 +1,9 @@
 
+using Microsoft.AspNetCore.Authorization;
+
 namespace Solid.Ecommerce.Web.Areas.Admin.Pages.Products;
+
+[Authorize(Policy = "SuperUser")]
 public class DetailsModel : BasePageModel<Product,DetailsModel>
 {
     public DetailsModel(IProductService productService): base(productService, "Details") { }

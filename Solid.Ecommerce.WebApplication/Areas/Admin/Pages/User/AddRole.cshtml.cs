@@ -2,14 +2,16 @@
 using System;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+using System.Data;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 
 namespace Solid.Ecommerce.WebApplication.Areas.Admin.Pages.User;
-
+[Authorize(Roles = "Administrator")]
 public class AddRoleModel : PageModel
 {
     private readonly UserManager<IdentityUser> _userManager;

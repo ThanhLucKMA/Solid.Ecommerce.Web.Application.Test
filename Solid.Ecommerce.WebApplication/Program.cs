@@ -35,12 +35,12 @@ public class Program
         builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 
-        builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
+        /*builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
         {
             options.User.RequireUniqueEmail = false;
         })
         .AddEntityFrameworkStores<ApplicationDbContextIdentity>()
-        .AddDefaultTokenProviders();
+        .AddDefaultTokenProviders();*/
 
         //Set session cookie flag
         builder.Services.AddSession(options =>
@@ -122,7 +122,11 @@ public class Program
 
         
         builder.Services.AddTransient<ISendMailService, SendMail>();
-
+        builder.Services.AddAuthorization(options =>
+        {
+            options.AddPolicy("SuperUser", policy =>
+                policy.RequireRole("Administrator","Editer"));            
+        });
         var app = builder.Build();
 
         // Configure the HTTP request pipeline.

@@ -5,11 +5,7 @@ using System.Data;
 
 namespace Solid.Ecommerce.Web.Areas.Admin.Pages.Products;
 
-
-
-[Authorize]
-[Authorize(Roles = "Administrator")]
-[Authorize(Roles = "Editer")]
+[Authorize(Policy = "SuperUser")]
 public class DeleteModel : BasePageModel<Product, DeleteModel>
 {
     [BindProperty]

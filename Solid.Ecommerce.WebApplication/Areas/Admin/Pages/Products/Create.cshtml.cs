@@ -4,10 +4,7 @@ using Solid.Ecommerce.Services.Services;
 
 namespace Solid.Ecommerce.Web.Areas.Admin.Pages.Products;
 
-[Authorize]
-[Authorize(Roles = "Administrator")]
-[Authorize(Roles = "Editer")]
-
+[Authorize(Policy = "SuperUser")]
 public class CreateModel : BasePageModel<Product, CreateModel>
 {
     private readonly IProductSubCategoryService _subCategoryService;

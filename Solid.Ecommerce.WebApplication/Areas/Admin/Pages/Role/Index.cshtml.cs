@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
@@ -7,6 +8,7 @@ using Solid.Ecommerce.WebApplication.Data;
 
 namespace Solid.Ecommerce.WebApplication.Areas.Admin.Pages.Role;
 
+[Authorize(Roles ="Administrator")]
 public class IndexModel : RolePageModel
 {
     public IndexModel(RoleManager<IdentityRole> roleManager, ApplicationDbContextIdentity dbContextIdentity) : base(roleManager, dbContextIdentity)
